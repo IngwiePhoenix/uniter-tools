@@ -1,0 +1,40 @@
+{
+  "name": "uniter-tools",
+  "version": "0.0.1",
+  "description": "Tools for working with Uniter - PHP in Node and the browser!",
+  "main": "index.js",
+  "bin": {
+    "uniter2ast": "bin/uniter2ast.js",
+    "uniter2js": "bin/uniter2js.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IngwiePhoenix/uniter-tools.git"
+  },
+  "keywords": [
+    "uniter",
+    "php",
+    "browser",
+    "node",
+    "tools",
+    "dev",
+    "devop"
+  ],
+  "author": "Ingwie Phoenix",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IngwiePhoenix/uniter-tools/issues"
+  },
+  "homepage": "https://github.com/IngwiePhoenix/uniter-tools#readme",
+  "dependencies": {
+    "js-beautify": "^1.5.10",
+    "json-print": "0.0.5",
+    "phpruntime": "^4.1.0",
+    "phptoast": "^3.8.0",
+    "phptojs": "^3.8.0",
+    "yargs": "^3.31.0"
+  }
+}
