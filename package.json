@@ -1,6 +1,6 @@
 {
   "name": "uniter-tools",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Tools for working with Uniter - PHP in Node and the browser!",
   "main": "index.js",
   "bin": {
@@ -33,8 +33,8 @@
     "js-beautify": "^1.5.10",
     "json-print": "0.0.5",
     "phpruntime": "^4.1.0",
-    "phptoast": "^3.8.0",
-    "phptojs": "^3.8.0",
+    "phptoast": "^3.14.0",
+    "phptojs": "^3.11.0",
     "yargs": "^3.31.0"
   }
 }
